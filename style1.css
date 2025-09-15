@@ -203,7 +203,7 @@ body {
 }
 
 .product-card {
-  background-color: rgb(251, 148, 80);
+  background-color: rgb(174, 97, 46);
   border-radius: 20px;
   overflow: hidden;
   text-align: center;
@@ -285,6 +285,7 @@ body {
     border-radius: 20px;
   }
 }
+
 
 
 
