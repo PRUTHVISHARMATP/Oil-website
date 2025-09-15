@@ -215,7 +215,7 @@ body {
 
 .product-card img {
   width: 100%;
-  height: auto;
+  height: 100px;
   border-radius: 15px;
   margin-bottom: 15px;
 }
@@ -285,3 +285,4 @@ body {
     border-radius: 20px;
   }
 }
+
